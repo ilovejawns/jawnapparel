@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+}
+body {
+  padding-top: 50px;
+  /*background: url("Backgrounds/philly2.jpg") no-repeat center center fixed;
+  min-height: 100%;
+  background-size: cover;*/
+}
+a.navbar-brand {
+  color: white !important;
+}
+#navbar a:hover {
+  text-decoration: underline;
+}
+/*.starter-template h1 {
+  text-align: center;
+}*/
+.content {
+  /*background-color: rgba(0, 0, 0, 0.6);*/
+  padding-top: 10px;
+  padding-left: 25px;
+  margin: auto;
+  margin-top: 25px;
+  color: #000;
+  /*border: 2px solid #cccccc;*/
+}
+p:nth-child(2) {
+  margin-top: 50px;
+}
+
+.fa.fa-facebook-official.fa-lg:hover {
+  color: #106eaa;
+  background-color: white;
+}
+
+/* Footer Section */
+.footer {
+  position: absolute;
+  background-color: black;
+  width: 100%;
+  bottom: 0;
+  margin-top: 25px;
+  padding-top: 10px;
+  max-height: 250px;
+  color: #fff;
+}
+
+/*footer p {
+  color: white;
+}*/

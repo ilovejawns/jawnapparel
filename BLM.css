@@ -1,0 +1,107 @@
+body {
+  background-color: #fff;
+  /*background: url("blm.jpg")no-repeat center center fixed;
+  min-height: 100%;
+  background-size: cover;*/
+}
+
+.fa.fa-facebook-official.fa-lg:hover {
+  color: #106eaa;
+  background-color: white;
+}
+
+.navbar.navbar-inverse {
+  border-radius: 0;
+}
+
+a.navbar-brand {
+  color: white !important;
+}
+#navbar a:hover {
+  text-decoration: underline;
+}
+
+#myNavbar a {
+  color: #cfcfcf;
+}
+#myNavbar a:hover {
+  color: white;
+  border-bottom-color: #a9a9a9;
+  border-bottom-color: rgba(255,255,255,.25);
+}
+#banner-pic {
+  margin-top: 80px;
+}
+#banner img {
+  max-height: 600px;
+  margin: auto; /* Centers the img horizontally */
+  width: 100%;
+}
+
+/*Header for T-Shirt section*/
+#header {
+  text-align: center;
+  color: #fff;
+  margin-top: 5px;
+}
+#cHeader {
+  border: 2px solid black;
+  background-color: black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  /*opacity: 0.9;*/
+}
+
+#cHeader p {
+  text-align: center;
+  color: #fff;
+}
+
+/* End of Header section for T-Shirts*/
+
+/* Centers the images on the page */
+.col-md-3 {
+  /*border: 2px solid black;*/
+  margin-top: 50px;
+}
+
+/*Aligns the text to the center with a top margin of 7px */
+.col-md-3 h4 {
+  text-align: center;
+  margin-top: 7px;
+  color: #000000;
+}
+
+.shirts {
+  margin: auto;
+  padding: 15px;
+  height: 275px;
+  background-color: #f1f1f1;
+  /*border: 4px solid #f1f1f1;*/
+
+}
+
+.btn.btn-primary {
+  /*padding: 10px 40px 10px 40px;*/
+  font-weight: bold;
+  text-align: center;
+  width: 100px;
+  /*background-color: #5e9fec;
+  border-color: #5e9fec;*/
+}
+
+/* Footer Section */
+footer {
+  margin-top: 125px;
+  padding-top: 10px;
+  width: 100%;
+  max-height: 250px;
+}
+footer .col-xs-6.col-md-6 {
+  background-color: black;
+  color: white;
+  padding-top: 25px;
+}
+/*footer p {
+  color: white;
+}*/

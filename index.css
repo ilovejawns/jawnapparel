@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+}
+body {
+  padding-top: 50px;
+  background: url("Backgrounds/citybokeh.jpg") no-repeat center center fixed;
+  min-height: 100%;
+  background-size: cover;
+}
+a.navbar-brand {
+  color: white !important;
+}
+#navbar a:hover {
+  text-decoration: underline;
+}
+
+.starter-template {
+  padding: 60px 15px;
+  margin: auto;
+  margin-top: 75px;
+  text-align: center;
+  max-width: 500px;
+  /*color: #fff;
+  border: 2px solid #cccccc;*/
+}
+
+a.btn.btn-info {
+  width: 200px;
+  padding: 13px 7px 13px 7px;
+  background-color: #359ec4;
+  margin-top: 125px;
+  font-size: 18px;
+}
+a.btn.btn-info:hover {
+  /*border: 3px inset #26708b;*/
+  background-color: #2a7a98;
+}
+.bg {
+  position: absolute;
+	width: 100%;
+	min-height: 100%;
+	z-index: -1;
+	background-color: rgba(0,0,0,0.7);
+  top: 0;
+  left:0;
+  /*-webkit-filter: blur(50px);
+  -moz-filter: blur(50px);
+  -o-filter: blur(50px);
+  -ms-filter: blur(50px);
+  filter: blur(50px);*/
+}
+
+.fa.fa-facebook-official.fa-lg:hover {
+  color: #106eaa;
+  background-color: white;
+}
