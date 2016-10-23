@@ -4,7 +4,7 @@ html {
 }
 body {
   padding-top: 50px;
-  margin-bottom: 250px;
+  margin-bottom: 60px;
   /*background: url("Backgrounds/philly2.jpg") no-repeat center center fixed;
   min-height: 100%;
   background-size: cover;*/
@@ -44,7 +44,7 @@ p:nth-child(2) {
   bottom: 0;
   margin-top: 25px;
   padding-top: 10px;
-  height: 250px;
+  height: 60px;
   color: #fff;
 }
 
