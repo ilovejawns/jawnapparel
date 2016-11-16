@@ -39,9 +39,9 @@ a.navbar-brand {
   margin-top: 80px;
 }
 #banner img {
-  max-height: 600px;
+  max-height: 480px;
   margin: auto; /* Centers the img horizontally */
-  width: 100%;
+  /*width: 100%;*/
 }
 
 /*Header for T-Shirt section*/
